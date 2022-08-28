@@ -1,7 +1,6 @@
 
 module.exports = {
   devServer: {
-    port: process.env.PORT,
-    allowedHosts: 'all'
+    port: process.env.PORT
   }
 }
